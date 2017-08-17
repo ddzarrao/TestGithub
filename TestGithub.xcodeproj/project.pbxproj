@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					F1036D3B1F4519AC00E1255B = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = RJHWY35VA5;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RJHWY35VA5;
 				INFOPLIST_FILE = TestGithub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Zarraonandia.TestGithub;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RJHWY35VA5;
 				INFOPLIST_FILE = TestGithub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Zarraonandia.TestGithub;
